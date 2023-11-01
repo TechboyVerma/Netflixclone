@@ -12,8 +12,6 @@ Netflix clone is created in android with MVVM architecture. It uses APIs from [T
 <img src="https://i.ibb.co/gT5Lkq1/7.jpg" width=300/>
 <img src="https://i.ibb.co/k4hsykL/8.jpg" width=300/>
 
-## Download APK
-Download and try the latest apk from [here](https://github.com/Gopalakrishnan-V/netflix-clone/releases)
 
 ## Local setup
 * Generate an api_key from [https://developers.themoviedb.org/3](https://developers.themoviedb.org/3)\
